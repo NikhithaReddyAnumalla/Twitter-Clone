@@ -51,7 +51,7 @@ In our graphs, we observed that as the number of users increases, there is a sha
 
 ## How to Run
 
-1. Replace `VenkatsaiROGG15` in "centralserver@VenkatsaiROGG15" with your own host name in all the files.
+1. Replace `NikhithaAnumallaROGG15` in "centralserver@NikhithaAnumallaROGG15" with your own host name in all the files.
 2. Compile the following files:
    - mainclass.erl
    - automation.erl
